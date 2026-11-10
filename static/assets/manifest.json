@@ -1,0 +1,6 @@
+{
+  "$schema": "https://www.schemastore.org/web-manifest-combined.json",
+  "name": "Earth Points",
+  "short_name": "Earth Points",
+  "start_url": "/"
+}
